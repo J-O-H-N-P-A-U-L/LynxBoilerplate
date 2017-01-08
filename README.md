@@ -1,8 +1,8 @@
 # LynxBoilerplate
 
-A boilerplate for building Atari Lynx games on top of. Based on the Pong template orginally posted by Karri on Mon Nov 26, 2012
+A boilerplate for building Atari Lynx games on top of. Based on the Pong template orginally posted by Karri on Mon Nov 26, 2012.
 
-Code descript
+Instructions:
 
 Include some libraries:
 ```
